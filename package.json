@@ -5,7 +5,7 @@
     "npm": "^6.4.1",
     "nuxt": "^2.3.2",
     "vue-cropperjs": "^2.2.2"
-    },
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
