@@ -1,0 +1,20 @@
+{
+  "name": "cssloader_test",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "npm": "^6.4.1",
+    "nuxt": "^2.3.2",
+    "vue-cropperjs": "^2.2.2"
+    },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.1",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.25.1"
+  }
+}
